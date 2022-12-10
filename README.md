@@ -1,10 +1,8 @@
-# Getting Started with Create React App
+### some extra features have been added to enhance the UX of page.
+A user can search the data by entering the details in search box,
+A user can change the pages as I have added pagination in it to enhance the user experience.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+***Note: I have applied the sorting function only in few columns as per the need, if you want it can be applied in all columns as well.
 
 ### `npm start`
 
